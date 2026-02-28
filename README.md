@@ -1,5 +1,6 @@
 # React Investment Calculator
 
+![Investment Calculator Screenshot](https://raw.githubusercontent.com/SotirisSid/React-Investment-Calculator/main/screenshot.png)
 
 A simple and interactive **Investment Calculator** built with **React** that helps users estimate the future value of their investments.  
 Enter your initial investment, annual contributions, expected return rate, and duration — and get a year-by-year breakdown of your investment performance.
@@ -33,5 +34,3 @@ This project uses the following technologies:
 ```bash
 git clone https://github.com/SotirisSid/React-Investment-Calculator.git
 cd React-Investment-Calculator
-
-![Investment Calculator Screenshot](https://raw.githubusercontent.com/SotirisSid/React-Investment-Calculator/main/screenshot.png)
