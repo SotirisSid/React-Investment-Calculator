@@ -34,4 +34,4 @@ This project uses the following technologies:
 git clone https://github.com/SotirisSid/React-Investment-Calculator.git
 cd React-Investment-Calculator
 
-![Investment Calculator Screenshot](./screenshot.png)
+![Investment Calculator Screenshot](screenshot.png)
